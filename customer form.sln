@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "customer form", "customer form\customer form.pyproj", "{17BB4028-1494-4FEB-B4B5-7E04F935F0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BB4028-1494-4FEB-B4B5-7E04F935F0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BB4028-1494-4FEB-B4B5-7E04F935F0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC54F16-DB77-4CC9-8B63-3BC49FD7F28E}
+	EndGlobalSection
+EndGlobal
